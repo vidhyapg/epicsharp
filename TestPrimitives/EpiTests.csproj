@@ -55,7 +55,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\epicsharp\EpiProblems.csproj">
+    <ProjectReference Include="..\EpiProblems\EpiProblems.csproj">
       <Project>{206d9660-a6c3-4fdb-a9d6-8f9527521681}</Project>
       <Name>EpiProblems</Name>
     </ProjectReference>

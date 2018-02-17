@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiProblems", "epicsharp\EpiProblems.csproj", "{206D9660-A6C3-4FDB-A9D6-8F9527521681}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiProblems", "EpiProblems\EpiProblems.csproj", "{206D9660-A6C3-4FDB-A9D6-8F9527521681}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiTests", "TestPrimitives\EpiTests.csproj", "{0F37F51F-E5B7-41D4-B076-7861B3315221}"
 EndProject
